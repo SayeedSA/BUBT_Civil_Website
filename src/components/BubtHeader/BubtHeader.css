@@ -1,0 +1,30 @@
+.header_top.bg_theme {
+  display: flex;
+  height: 110px;
+  align-items: center;
+  padding-top: 4px;
+  background-color: #F5F5DC;
+}
+.header_top_center_menu {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 5px;
+}
+.login_register {
+  padding-top: 4px;
+}
+
+.header_top_center_title p {
+  font-family: 'Dosis';
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+}
+
+.header_top_center_title h2 {
+  font-family: 'Dosis';
+  font-weight: 700;
+  color: #349595;
+  font-size: 28px;
+}
